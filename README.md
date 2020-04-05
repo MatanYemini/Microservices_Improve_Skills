@@ -8,3 +8,6 @@ Implementing a site that uses microservices (4)
 * Working with the circuit breaker
 
 
+### How to run:
+Install all dependencies in all services.
+The confrence app includes the view.
